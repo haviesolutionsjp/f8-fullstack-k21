@@ -1,0 +1,101 @@
+/* CSS BÀI TẬP SỐ 1 */
+.course-box {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid rgb(31, 218, 50)
+}
+
+.course-box h2 {
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    text-align: center;
+    color: #3a3a3a;
+    font-style: italic;
+
+}
+
+.description {
+    text-align: center;
+    color: #333;
+    line-height: 2;
+}
+
+.note {
+    background-color: #f69d54;
+    border: 1px solid #030303;
+    text-align: center;
+    font-weight: bold;
+}
+
+body {
+    background-color: #dbdbdb;
+}
+
+/* CSS BÀI TẬP SỐ 2 */
+.event-card {
+    background-color: #cff98f;
+    border-radius: 16px;
+    border: 1px solid rgb(5, 5, 5);
+}
+
+.event-card h2 {
+    text-align: center;
+    color: #200066;
+    font-size: 32px;
+}
+
+.time {
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.content {
+    color: #f31818;
+    line-height: 2.5;
+}
+
+.status {
+    background-color: #242ddd;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+}
+
+/* CSS BÀI TẬP SỐ 3 */
+.discount-box {
+    background-color: #fff;
+    border-radius: 10px;
+    border: 1px solid rgb(238, 96, 25);
+}
+
+.discount-box h2 {
+    text-align: center;
+    color: #ff6f00;
+    font-size: 32px;
+}
+
+.main-text {
+    text-align: center;
+    color: #3a3a3a;
+}
+
+.discount-info {
+    background-color: #ff6f00;
+    border: 1px dashed #030303;
+    border-radius: 10px;
+}
+
+.discount-info p {
+    font-weight: bold;
+}
+
+.warning {
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
